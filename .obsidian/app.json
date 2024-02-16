@@ -1,0 +1,27 @@
+{
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "tabSize": 2,
+  "attachmentFolderPath": "img",
+  "defaultViewMode": "source",
+  "focusNewTab": true,
+  "showIndentGuide": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showInlineTitle": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "autoPairBrackets": true,
+  "smartIndentList": false,
+  "useTab": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
