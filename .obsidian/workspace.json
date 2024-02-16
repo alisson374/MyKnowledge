@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "ac342928875fae9b",
+            "id": "96d9c752029bcbaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/Computers/Computers.md",
+                "file": "root/Computers/Software Development/Software Development Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,19 +31,33 @@
             }
           },
           {
-            "id": "fccf9bcbeb2303a9",
+            "id": "cadb5e425cfca987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/Computers/Software Development/Unit Tests/xUnit.md",
+                "file": "root/Computers/Software Development/Autenticação e Autorização.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11744ff68ad7f378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/Computers/Software Development/Autenticação.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "root/Computers/Software Development/Autenticação.md"
+              }
             }
           }
         ]
@@ -140,12 +156,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "113866aba9f642bc",
+  "active": "11744ff68ad7f378",
   "lastOpenFiles": [
+    "img/Screenshot_644.png",
+    "root/Computers/Software Development/Autenticação e Autorização.md",
+    "root/Computers/Software Development/Autenticação.md",
+    "root/Computers/Software Development/Software Development Concepts.md",
+    "root/Computers/Computers.md",
     "root/Computers/Software Development/Unit Tests/xUnit.md",
+    "root/Computers/Software Development/Clean Architecture/Resumo.md",
     "root/Computers/Software Development/Unit Tests/AAA.md",
     "root/Computers/Software Development/Unit Tests/Unit Tests.md",
-    "root/Computers/Computers.md",
     "root/Computers/Programming Concepts/Object-Oriented Programming/Object-Oriented Programming.md",
     "root/Computers/Programming Languages/C Sharp/C Sharp.md",
     "root/Computers/Programming Languages/Programming Languages.md",
@@ -154,7 +175,6 @@
     "root/Computers/Programming Concepts/Programming Concepts.md",
     "root/Computers/Software Development/Clean Architecture/Clean Architecture.md",
     "root/Computers/Software Development/Git.md",
-    "root/Computers/Software Development/Software Development Concepts.md",
     "root/Computers/Software Development/Clean Architecture/Clean Archi.md",
     "root/Computers/Software Development/Clean Architecture/Camadas.md",
     "root/Computers/Software Development/Clean Architecture/Onion Architecture.md",
@@ -165,7 +185,6 @@
     "img/Pasted image 20240130204253.png",
     "root/Computers/Software Development/Clean Architecture/Dependency Inversion.md",
     "root/Computers/Software Development/Boas Práticas.md",
-    "root/Computers/Software Development/Clean Architecture/Resumo.md",
     "root/Computers/Software Development/Clean Architecture/Conceitos de DI.md",
     "img/Pasted image 20240129205036.png",
     "img/Pasted image 20240129204724.png",
@@ -177,9 +196,6 @@
     "root/Computers/Software Development/Clean Architecture",
     "root/Computers/Software Development",
     "root/Music/Music.md",
-    "root/Music/Intervalo das notas.md",
-    "root/Music/Notas.md",
-    "root/Music/Descrição dos intervalos.md",
     "root/Computers/Software Development/Unit Tests",
     "Untitled.canvas",
     "root/Computers/Data Base",
