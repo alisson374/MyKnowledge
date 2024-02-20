@@ -22,43 +22,44 @@ git diff: Mostra diferenças no arquivo que foram realizadas
 
 # BRANCHS:
 
-git branch -m master main: troca a branch master pela main
+*git branch -m master main*: troca a branch master pela main
  
-git branch nome_da_branch: cria uma nova branch com o nome digitado
+*git branch nome_da_branch*: cria uma nova branch com o nome digitado
 	
-git branch: mostra os branches que estão sendo trabalhados localmente.
+*git branch*: mostra os branches que estão sendo trabalhados localmente.
 	
-git branch -a: mostra todas as branchs locais e remotas
+*git branch -a*: mostra todas as branchs locais e remotas
 
-git checkout nome_da_branch: entra em uma branch
+*git checkout nome_da_branch*: entra em uma branch
 	
-git switch nome_da_branch: entra em uma branch
+*git switch nome_da_branch*: entra em uma branch
 
-git checkout -b nome_da_branch: cria uma nova branche e entra nela
-git switch -c new-branch: cria uma nova branche e entra nela
+*git checkout -b nome_da_branch*: cria uma nova branche e entra nela
+
+*git switch -c new-branch*: cria uma nova branche e entra nela
  	
-git branch -m : renomeia a branch
+*git branch -m*: renomeia a branch
 
-git branch -d nome_da_branch: deleta a branch
+*git branch -d nome_da_branch*: deleta a branch
 	
-git merge branch_escolhida: "junta" na branch atual as modificação da branch_escolhida
+*git merge branch_escolhida*: "junta" na branch atual as modificação da branch_escolhida
 
 # REMOTE:
-git remote add origin link_do_remote: conecta o repositório remoto no local	
+*git remote add origin link_do_remote*: conecta o repositório remoto no local	
 
-git push: atualiza o repositório remoto com quaisquer commits feitos localmente em uma branch.	
+*git push*: atualiza o repositório remoto com quaisquer commits feitos localmente em uma branch.	
 	
-git checkout nome_da_branch: trás e entra em uma branch remota de mesmo nome se esta nao existir no repo local.
+*git checkout nome_da_branch*: trás e entra em uma branch remota de mesmo nome se esta nao existir no repo local.
 	
-git push --set-upstream origin nome_branch: cria uma branch remota como o nome da branch local e recebe as modicações.
+*git push --set-upstream origin nome_branch*: cria uma branch remota como o nome da branch local e recebe as modicações.
 	
-git push -d origin nome_branch: deleta a branch remota.
+*git push -d origin nome_branch*: deleta a branch remota.
 
 git push origin nome_branch_local:nome_branch_remota : 
 	
-git pull : é a junção de dois comandos:
-		git fetch: trás as alterações do remote.
-		git merge origin/nome_branch: junta as alterações na brancha atual.
+*git pull*: é a junção de dois comandos:
+		*git fetch*: trás as alterações do remote.
+		*git merge origin/nome_branch*: junta as alterações na brancha atual.
 
 
 # COMMIT:

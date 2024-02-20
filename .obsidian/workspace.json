@@ -18,38 +18,12 @@
             }
           },
           {
-            "id": "96d9c752029bcbaf",
+            "id": "c9da8c198ee8ce46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/Computers/Software Development/Software Development Concepts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadb5e425cfca987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Software Development/Autenticação e Autorização.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11744ff68ad7f378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Software Development/Autenticação.md",
+                "file": "root/Computers/Software Development/Git/Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/Computers/Software Development/Autenticação.md"
+                "file": "root/Computers/Software Development/Git/Git.md"
               }
             }
           }
@@ -156,12 +130,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "11744ff68ad7f378",
+  "active": "c9da8c198ee8ce46",
   "lastOpenFiles": [
-    "img/Screenshot_644.png",
-    "root/Computers/Software Development/Autenticação e Autorização.md",
-    "root/Computers/Software Development/Autenticação.md",
+    "root/Computers/Software Development/Unit Tests/Boas Práticas.md",
+    "root/Computers/Software Development/Autenticação e Autorização/Autenticação e Autorização.md",
+    "root/Computers/Software Development/Autenticação e Autorização/Armazenamento de Tokens.md",
+    "root/Computers/Software Development/Autenticação e Autorização/Autorização.md",
     "root/Computers/Software Development/Software Development Concepts.md",
+    "root/Computers/Software Development/Git",
+    "root/Computers/Software Development/Git/Git.md",
+    "root/Computers/Software Development/Autenticação e Autorização/Autenticação.md",
+    "root/Computers/Software Development/Autenticação e Autorização",
+    "img/Screenshot_644.png",
     "root/Computers/Computers.md",
     "root/Computers/Software Development/Unit Tests/xUnit.md",
     "root/Computers/Software Development/Clean Architecture/Resumo.md",
@@ -174,7 +154,6 @@
     "root/Computers/Programming Concepts/Data Structs/Data Structs.md",
     "root/Computers/Programming Concepts/Programming Concepts.md",
     "root/Computers/Software Development/Clean Architecture/Clean Architecture.md",
-    "root/Computers/Software Development/Git.md",
     "root/Computers/Software Development/Clean Architecture/Clean Archi.md",
     "root/Computers/Software Development/Clean Architecture/Camadas.md",
     "root/Computers/Software Development/Clean Architecture/Onion Architecture.md",
@@ -184,26 +163,21 @@
     "img/Pasted image 20240130211129.png",
     "img/Pasted image 20240130204253.png",
     "root/Computers/Software Development/Clean Architecture/Dependency Inversion.md",
-    "root/Computers/Software Development/Boas Práticas.md",
     "root/Computers/Software Development/Clean Architecture/Conceitos de DI.md",
     "img/Pasted image 20240129205036.png",
     "img/Pasted image 20240129204724.png",
     "img/Pasted image 20240129204324.png",
     "img/Pasted image 20240129203203.png",
-    "img/Pasted image 20240129203047.png",
     "root/Computers/Software Development/Clean Architecture/Separation of Concerns.md",
     "root/Computers/Software Development/Clean Architecture/Modelo Anêmico.md",
     "root/Computers/Software Development/Clean Architecture",
     "root/Computers/Software Development",
-    "root/Music/Music.md",
     "root/Computers/Software Development/Unit Tests",
     "Untitled.canvas",
     "root/Computers/Data Base",
     "Project_Hades",
     "Prova",
     "root/Computers/Programming Concepts/Object-Oriented Programming",
-    "root/Computers/Programming Concepts/Algorithms Complexity",
-    "root/Computers/Programming Languages/C Sharp",
-    "img"
+    "root/Computers/Programming Concepts/Algorithms Complexity"
   ]
 }
