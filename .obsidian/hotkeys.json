@@ -14,5 +14,23 @@
       ],
       "key": "]"
     }
+  ],
+  "editor:insert-link": [],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }

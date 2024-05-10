@@ -5,7 +5,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "tabSize": 2,
-  "attachmentFolderPath": "img",
+  "attachmentFolderPath": "./",
   "defaultViewMode": "source",
   "focusNewTab": true,
   "showIndentGuide": false,
@@ -19,9 +19,10 @@
   "smartIndentList": false,
   "useTab": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showUnsupportedFiles": true
 }

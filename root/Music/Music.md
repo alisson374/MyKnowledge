@@ -13,4 +13,4 @@ Bohumil Med (1996) cita que:
  1 - [[Melodia]]...........: conjunto de sons dispostos em ***ordem sucessiva***. (Concepção horizontal da música);
  2 - [[Harmonia]]........: conjunto de sons dispostos ***ordem simultânea***. (Concepção vertical da música);
  3 - [[Contraponto]]...: conjunto de melodias dispostas em ***ordem simultânea***. (Concepção ao mesmo tempo horizontal e vertical da música);
- 4 - [[Ritmo]]..............: ordem e proporção em que estão dispostos os sons que constituem a melodia e harmonia.
+ 4 - [[Rítimo]]..............: ordem e proporção em que estão dispostos os sons que constituem a melodia e harmonia.

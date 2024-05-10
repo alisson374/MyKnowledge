@@ -1,0 +1,11 @@
+{
+  "configuration": {
+    "url": {
+      "protocol": "http",
+      "ip_address": "localhost",
+      "port": 8384
+    }
+  },
+  "devMode": false,
+  "api_key": "2ZALhgssL9MUmJ5nzH2emrMRgzQNRTEg"
+}

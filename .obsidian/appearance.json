@@ -3,7 +3,9 @@
   "cssTheme": "Comfort Smooth",
   "theme": "obsidian",
   "nativeMenus": false,
-  "baseFontSize": 15,
+  "baseFontSize": 10,
   "translucency": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }

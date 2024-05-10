@@ -1,3 +1,4 @@
+#subject 
 ## Conhecendo as notas
 A música é compostas por sete notas naturais, sendo elas:
 -> Dó, Ré, Mi, Fá, Sol, Lá e Si

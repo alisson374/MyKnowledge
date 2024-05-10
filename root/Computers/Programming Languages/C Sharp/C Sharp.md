@@ -6,3 +6,9 @@ compilada/interpretada...
 principais utilizações...
 ### Plataforma Dotnet
 O *C#* e algumas linguagens, como o C++, utilizam a plataforma de aplicativo [[Dotnet]].   
+
+### Fundamentals
+To use a programming language, first you need to know the [[fundamentals]].
+
+### ORM
+One of the most used ORM () in c# is the [[Entity Framework]]
