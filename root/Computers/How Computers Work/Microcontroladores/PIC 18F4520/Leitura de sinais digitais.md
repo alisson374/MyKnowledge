@@ -1,0 +1,1 @@
+A leitura de sinais digitais pode ser realizada de 2 formas 

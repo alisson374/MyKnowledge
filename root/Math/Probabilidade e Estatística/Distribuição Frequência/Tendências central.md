@@ -45,3 +45,7 @@ $$
 *Me*: mediana
 *Mo*: moda
 *P*: ponto mediano (N/2)
+
+$$
+y = \int\limits^{2}_{4}{}
+$$

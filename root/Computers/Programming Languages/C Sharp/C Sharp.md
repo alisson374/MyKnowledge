@@ -4,11 +4,11 @@ C# é uma linguagem de programação moderna, segura e [[Object-Oriented Program
 tipagem...
 compilada/interpretada...
 principais utilizações...
+### Fundamentals
+To use a programming language first you need to know the [[fundamentals]].
+
+### Frameworks
+[[Entity Framework]]: One of the most used ORM () in C#.
+[[Windows Form]]: ui framework for desktop development.
 ### Plataforma Dotnet
 O *C#* e algumas linguagens, como o C++, utilizam a plataforma de aplicativo [[Dotnet]].   
-
-### Fundamentals
-To use a programming language, first you need to know the [[fundamentals]].
-
-### ORM
-One of the most used ORM () in c# is the [[Entity Framework]]

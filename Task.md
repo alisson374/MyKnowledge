@@ -6,23 +6,29 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] estudar probabilidade estatistica
-- [ ] adicionar segurança no desenvolvimento no obsidian
-- [ ] adicionar serviços de rede no obsidian
 
 
 ## in progress
 
-- [ ] estudar quimica
-- [ ] atualizar o obsidian com blazor
+- [ ] adicionar web programming
 
 
 ## done
 
-- [ ] quebra cifra de cesar - criar o front com o blazor e colocar no gihub
+- [ ] organizar obsidian
 
 
+***
 
+## Archive
+
+- [ ] revisar calculo 1 e 2
+- [ ] aprender auth
+- [ ] questionário 1 direito
+- [ ] questionário 2 direito
+- [ ] tarefa dia 3 equações
+- [ ] trabalho aula 4 de equações
+- [ ] achar simulador de micro
 
 %% kanban:settings
 ```

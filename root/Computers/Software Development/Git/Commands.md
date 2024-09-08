@@ -20,9 +20,11 @@ git push: atualiza o repositório remoto com quaisquer commits feitos localmente
 
 git diff: Mostra diferenças no arquivo que foram realizadas
 
-git rm --cached file_to_remove.txt
+# Tracking
 
-git rm --cached -r directory_to_remove
+*git rm --cached file_to_remove.txt*: remove o tracking de um arquivo.
+
+*git rm --cached -r directory_to_remove*: remove o tracking de todos os arquivos de um diretório.
 # BRANCHS:
 
 *git branch -m master main*: troca a branch master pela main

@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68740ec287709269",
+        "id": "2744bed9e6722e5c",
         "type": "tabs",
         "children": [
           {
-            "id": "a6be56e7ea94279c",
+            "id": "0ff9b7e067652f92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d099bffa7af6c083",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,22 +30,12 @@
             }
           },
           {
-            "id": "122d8c19d78d8f5b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "35bdb2360e6dbdb1",
+            "id": "1e3cc19dd6902430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/English/English.md",
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Angular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "37fd8c26f8a79446",
+            "id": "74e12ca3f75dfa1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/English/Present Continuos.md",
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,12 +56,38 @@
             }
           },
           {
-            "id": "6fe17f8bc94242b0",
+            "id": "ae9fe9b308b8dbbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/Computers/Software Development/Git/Commands.md",
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa6b9c12650ae68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Rendering Dynamic Templates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d2bf0f4b6480c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Managing Dynamic Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,27 +140,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f62fcb051013ebb3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Math/Probabilidade e Estatística/Distribuição Frequência/Distribuição de Frequência.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 319.5
   },
   "right": {
     "id": "c308b89564279952",
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/Computers/Software Development/Git/Commands.md"
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Angular.md"
               }
             }
           },
@@ -174,7 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "syncthing-integration:Open Syncthing conflict manager modal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,55 +194,56 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadfea5083c41e54",
+  "active": "1e3cc19dd6902430",
   "lastOpenFiles": [
+    "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
+    "root/Computers/Programming Languages/JavaScript/Angular/Angular.md",
+    "root/Computers/Programming Languages/JavaScript/Angular/Rendering Dynamic Templates.md",
+    "root/Computers/Programming Languages/JavaScript/Angular/Managing Dynamic Data.md",
     "Task.md",
-    "root/English/Present Continuos.md",
-    "root/English/English.md",
-    "root/Computers/Software Development/Api/Autenticação e Autorização/Autenticação e Autorização.md",
-    "root/Computers/Software Development/Api/Autenticação e Autorização/JWT.md",
-    "root/Computers/Software Development/Git/Commands.md",
-    "root/Computers/Software Development/Api/Autenticação e Autorização/AspNet Identity.md",
-    "root/Computers/Software Development/Development Security/Development Security.md",
+    "root/Computers/Software Development/Web Programming/HTML/HTML.md",
+    "root/Computers/Data Base/Modelo ER.md",
+    "root/Computers/Data Base/Normalização.md",
+    "root/Computers/Data Base/Modelo Relacional.md",
     "root/Computers/Software Development/Software Development Concepts.md",
-    "root/Computers/Networks/Network.md",
-    "root/Computers/Networks/LDAP.md",
-    "root/Computers/Networks/Serviços de rede.md",
-    "root/Computers/Networks/AD.md",
-    "root/Quimica/Estequiometria.md",
-    "root/Quimica/Química.md",
-    "root/Quimica/Configuração eletrônica.md",
-    "root/Quimica/Modelo atômico/Modelo atômico.md",
-    "root/Quimica/Modelo atômico/Números quânticos.md",
-    "root/Math/Probabilidade e Estatística/Distribuição de Normal/Distribuição Normal.md",
-    "root/Math/Probabilidade e Estatística/Distribuição de Normal/Pasted image 20240424203846.png",
-    "root/Computers/Networks/Tabela CIDR.md",
-    "root/Math/Probabilidade e Estatística/Distribuição Frequência/Distribuição de Frequência.md",
+    "root/Math/Cálculo 1/Cálculo 1.md",
+    "root/Math/Equações diferencias/Equações diferencias.md",
     "root/Math/Probabilidade e Estatística/Probabilidade e Estatística.md",
-    "root/Math/Probabilidade e Estatística/Distribuição de Normal",
-    "root/Math/Probabilidade e Estatística/Distribuição Frequência/Variabilidade.md",
-    "root/Math/Probabilidade e Estatística/Distribuição Frequência/Tendências central.md",
-    "root/Math/Probabilidade e Estatística/Distribuição Frequência/Tipos de frequência.md",
-    "root/Computers/How Computers Work/Digital Eletronic/Flip Flop.md",
-    "root/Computers/How Computers Work/Digital Eletronic/~syncthing~Flip Flop JK.md.tmp",
-    "root/Computers/Software Development/Blazor",
-    "root/Computers/Software Development/Nova pasta",
-    "root/Math/Probabilidade e Estatística/Distribuição Frequência",
-    "root/Quimica/Pasted image 20240414214245.png",
-    "root/Quimica/Modelo atômico",
-    "root/Quimica/Teoria atômica",
-    "img/Pasted image 20240407151739.png",
-    "img/Pasted image 20240407151252.png",
-    "img/Pasted image 20240407145929.png",
-    "root/Quimica",
-    "img/Pasted image 20240401201807.png",
-    "img/Pasted image 20240401201733.png",
-    "img/Pasted image 20240401194730.png",
-    "img/Pasted image 20240401194644.png",
-    "img/Pasted image 20240401194559.png",
-    "Untitled.canvas",
-    "root/Math/Probabilidade e Estatística.zip",
-    "root/Computers/Networks",
+    "root/Computers/Software Development/Web Programming/Web Programming.md",
+    "root/Computers/Software Development/Web Programming/CSS",
+    "root/Computers/Software Development/Web Programming/HTML",
+    "root/Computers/Software Development/Web Programming/CSS/CSS.md",
+    "root/Computers/Software Development/Web Programming",
+    "root/Computers/How Computers Work/How Computers Work.md",
+    "root/Computers/How Computers Work/Microcontroladores/Microcontroladores.md",
+    "root/Computers/Programming Languages/Typescript.md",
+    "root/Computers/Programming Languages/JavaScript/JavaScript.md",
+    "root/Computers/Programming Languages/Programming Languages.md",
+    "root/Computers/Programming Languages/JavaScript",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Graph.md",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Exercícios de Grafos.md",
+    "root/Math/Equações diferencias/Variáveis separadas.md",
+    "root/Computers/Programming Languages/C Sharp/C Sharp.md",
+    "root/Computers/Programming Languages/JavaScript/Angular",
+    "root/Computers/Programming Languages/C Sharp/Pasted image 20240905204304.png",
+    "root/Computers/Programming Concepts/Data Structs/stack_queue.zip",
+    "root/Computers/Programming Concepts/Data Structs/Queue.zip",
+    "root/Computers/Programming Concepts/Data Structs/Queue.md",
+    "root/Computers/Programming Concepts/Data Structs/Stack.md",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/1-BFS.canvas",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204826.png",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204304.png",
+    "root/Computers/Programming Concepts/Data Structs/1_SCSyMwmK5pf-SiooDv-v5w.webp",
+    "root/Math/Equações diferencias/Equações Diferencias.canvas",
+    "Pasted image 20240812202929.png",
+    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520/WhatsApp Image 2024-07-30 at 19.47.47(1) 1.jpeg",
+    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520/WhatsApp Image 2024-07-30 at 19.47.47(1).jpeg",
+    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520/WhatsApp Image 2024-07-30 at 19.47.47.jpeg",
+    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/Pasted image 20240812212043.png",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/Pasted image 20240812212036.png",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos",
     "test.canvas"
   ]
 }

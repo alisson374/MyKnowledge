@@ -5,5 +5,10 @@ Segurança da informação te o _objetivo_ de _salvaguardar_ as informações pa
 ## Sumário
 [[Introdução]]
 [[Análise de Risco]]
+[[Criptografia]]
+[[Segurança Ofensiva]]
+[[Information Gathering]]
+[[Scanning/Enumeration]]
+[[Vulnerability Analysis]]
 ## Vulnerabilidade
 ![[Pasted image 20240319194304.png]]

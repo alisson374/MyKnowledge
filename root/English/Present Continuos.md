@@ -19,11 +19,11 @@ We're driving.          -> Nós estamos dirigindo.
 The baby's sleeping.    -> O bebê está dormindo.
 ### Negatives Sentences
 I’m not doing the dishes right now. -> Eu não estou lavando a louça agora.
-The students aren’t studying.       -> Os estudantes estão estudando.
+The students aren’t studying.       -> Os estudantes não estão estudando.
 My computer isn’t working.          -> Meu computador não está funcionando. 
 
 ### Interrogative Sentences
 Am I cooking?          -> Eu estou cozinho?
-Aren’t they sleeping?  -> Eles estão dormindo?
+Aren’t they sleeping?  -> Eles não estão dormindo?
 Is it raining?         -> Está chovendo?
 

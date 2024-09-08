@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"967052a7ac43cd82","type":"text","text":"Equações diferencias","x":-320,"y":-200,"width":200,"height":50,"color":"4"},
+		{"id":"899233b0e4a026ee","type":"text","text":"Ordinárias","x":-10,"y":-280,"width":140,"height":55},
+		{"id":"80a3a3e9472ad5ee","type":"text","text":"Parciais","x":-10,"y":-150,"width":112,"height":50},
+		{"id":"a6bf8d7a750307ea","type":"text","text":"2 incógnitas","x":180,"y":-280,"width":140,"height":55},
+		{"id":"eb3163f087878e95","type":"text","text":"3 incógnitas","x":180,"y":-150,"width":140,"height":50},
+		{"id":"d5d3b9d16d3d13c3","type":"text","text":"Classificação","x":-295,"y":-80,"width":150,"height":50,"color":"6"},
+		{"id":"f8b086e6210c30ec","type":"text","text":"Grau","x":-390,"y":65,"width":95,"height":50},
+		{"id":"34f2553deb0eab98","type":"text","text":"Ordem","x":-145,"y":60,"width":95,"height":55}
+	],
+	"edges":[
+		{"id":"b410f77dfe38a23f","fromNode":"967052a7ac43cd82","fromSide":"right","toNode":"899233b0e4a026ee","toSide":"left"},
+		{"id":"88831b0f3af3e066","fromNode":"967052a7ac43cd82","fromSide":"right","toNode":"80a3a3e9472ad5ee","toSide":"left"},
+		{"id":"32904c91d483e6ee","fromNode":"80a3a3e9472ad5ee","fromSide":"right","toNode":"eb3163f087878e95","toSide":"left"},
+		{"id":"85bf8f3b85adeadd","fromNode":"899233b0e4a026ee","fromSide":"right","toNode":"a6bf8d7a750307ea","toSide":"left"},
+		{"id":"e14fd01403fc2669","fromNode":"d5d3b9d16d3d13c3","fromSide":"bottom","toNode":"34f2553deb0eab98","toSide":"top"},
+		{"id":"d793bb0f1683f90b","fromNode":"d5d3b9d16d3d13c3","fromSide":"bottom","toNode":"f8b086e6210c30ec","toSide":"top"},
+		{"id":"a9d169dcc222da19","fromNode":"967052a7ac43cd82","fromSide":"bottom","toNode":"d5d3b9d16d3d13c3","toSide":"top"}
+	]
+}

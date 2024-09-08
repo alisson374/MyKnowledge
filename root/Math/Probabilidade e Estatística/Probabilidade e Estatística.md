@@ -7,3 +7,4 @@ Desenvolver a compreensão intuitiva da estatística e do raciocínio estatísti
 ## Sumário
 [[Distribuição de Frequência]]
 [[Distribuição Normal]]
+[[Distribuição Binominal]]
