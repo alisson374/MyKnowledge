@@ -6,12 +6,13 @@
 *Create components*: ng g c "component name" "options"
 *Create module*: ng g m "nome do modulo"
 *Create module with routing*: ng g m "nome do modulo" --routing
-*Run app*: npm start
+*Run app*: ng start
 
 ## Principais blocos
 ### Components
 ## Summary
 [[Components]]
+[[Modulos]]
 [[Managing Dynamic Data]]
 [[Rendering Dynamic Templates]]
 [[DI no Angular]]

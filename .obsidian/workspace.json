@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "74e12ca3f75dfa1e",
+            "id": "dacbe751ade627cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Modulos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,20 +56,7 @@
             }
           },
           {
-            "id": "ae9fe9b308b8dbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fa6b9c12650ae68",
+            "id": "a6d3a2ef54d928b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +69,7 @@
             }
           },
           {
-            "id": "a9d2bf0f4b6480c8",
+            "id": "8df4acd53690de16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,9 +80,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "083090fe18b27dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Diretivas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Angular.md"
+                "file": "root/Computers/Programming Languages/JavaScript/Angular/Modulos.md"
               }
             }
           },
@@ -194,12 +194,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e3cc19dd6902430",
+  "active": "dacbe751ade627cf",
   "lastOpenFiles": [
-    "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
     "root/Computers/Programming Languages/JavaScript/Angular/Angular.md",
+    "root/Computers/Programming Languages/JavaScript/Angular/Modulos.md",
     "root/Computers/Programming Languages/JavaScript/Angular/Rendering Dynamic Templates.md",
     "root/Computers/Programming Languages/JavaScript/Angular/Managing Dynamic Data.md",
+    "root/Computers/Programming Languages/JavaScript/Angular/Diretivas.md",
+    "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
     "Task.md",
     "root/Computers/Software Development/Web Programming/HTML/HTML.md",
     "root/Computers/Data Base/Modelo ER.md",
@@ -228,8 +230,6 @@
     "root/Computers/Programming Languages/C Sharp/Pasted image 20240905204304.png",
     "root/Computers/Programming Concepts/Data Structs/stack_queue.zip",
     "root/Computers/Programming Concepts/Data Structs/Queue.zip",
-    "root/Computers/Programming Concepts/Data Structs/Queue.md",
-    "root/Computers/Programming Concepts/Data Structs/Stack.md",
     "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/1-BFS.canvas",
     "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204826.png",
     "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204304.png",
