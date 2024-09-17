@@ -71,4 +71,4 @@ Unfortunately, this will not work because custom HTML attributes are not standar
 export class AppBanner {
   testId = 'main-cta';
 }
-```
+``` 

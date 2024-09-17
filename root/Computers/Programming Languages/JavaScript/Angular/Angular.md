@@ -14,10 +14,9 @@
 ## Summary
 [[Components]]
 [[Modulos]]
-[[Managing Dynamic Data]]
-[[Rendering Dynamic Templates]]
 [[Services]]
 [[DI no Angular]]
 [[Router]]
 [[Services]]
 [[Diretivas]]
+[[Data Binding]]
