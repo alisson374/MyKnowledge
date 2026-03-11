@@ -11,3 +11,7 @@
 [[Software Development Concepts]]
 ### Network
 [[Network]]
+
+[[Inteligência Artificial]]
+
+[[Linguagem Descrição de Hardware]]

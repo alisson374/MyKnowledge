@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ff9b7e067652f92",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "d099bffa7af6c083",
             "type": "leaf",
             "pinned": true,
@@ -26,128 +16,25 @@
               "state": {
                 "file": "Task.md"
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Task"
             }
           },
           {
-            "id": "5fb1ad7f8aa4d38c",
+            "id": "0ff9b7e067652f92",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Angular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb89cbacbba600c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Data Binding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad11536b3566dcba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Evento Binding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d62869ceefa493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Style and Class binding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d35a7b1ece0a7a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Evento Binding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3590fe76f32a658d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Style and Class binding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e92c6f27409736b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Managing Dynamic Data.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4e6a6ebb3d7f775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Rendering Dynamic Templates.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7684410ac6342694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Diretivas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +53,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -182,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -190,14 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 486.5
   },
   "right": {
     "id": "c308b89564279952",
@@ -213,8 +107,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Evento Binding.md"
-              }
+                "file": "root/Computers/How Computers Work/Microcontroladores/Comunicação Serial.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Comunicação Serial"
             }
           },
           {
@@ -225,7 +121,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -243,59 +141,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false
     }
   },
-  "active": "ad11536b3566dcba",
+  "active": "0ff9b7e067652f92",
   "lastOpenFiles": [
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Data Binding.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Style and Class binding.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Evento Binding.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Pasted image 20240915203857.png",
-    "root/Computers/Programming Languages/JavaScript/Angular/Angular.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Rendering Dynamic Templates.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Managing Dynamic Data.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding",
-    "root/Computers/Programming Languages/JavaScript/Angular/Diretivas.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Components.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Services.md",
-    "root/Computers/Programming Languages/JavaScript/TypeScript/basic.md",
-    "root/Computers/Programming Languages/JavaScript/TypeScript",
-    "root/Computers/Programming Languages/JavaScript/JavaScript.md",
-    "root/Computers/Programming Languages/JavaScript/TypeScript/Typescript.md",
-    "root/Computers/Programming Languages/JavaScript/Angular/Modulos.md",
-    "Task.md",
-    "root/Computers/Software Development/Web Programming/HTML/HTML.md",
-    "root/Computers/Data Base/Modelo ER.md",
-    "root/Computers/Data Base/Normalização.md",
-    "root/Computers/Data Base/Modelo Relacional.md",
-    "root/Computers/Software Development/Software Development Concepts.md",
-    "root/Math/Cálculo 1/Cálculo 1.md",
-    "root/Math/Equações diferencias/Equações diferencias.md",
+    "root/Physics/Physics.md",
+    "root/English/English.md",
+    "root/Physics/Solid Mechanics/Solid Mechanics.md",
     "root/Math/Probabilidade e Estatística/Probabilidade e Estatística.md",
-    "root/Computers/Software Development/Web Programming/Web Programming.md",
-    "root/Computers/Software Development/Web Programming/CSS",
-    "root/Computers/Software Development/Web Programming/HTML",
-    "root/Computers/Software Development/Web Programming/CSS/CSS.md",
-    "root/Computers/Software Development/Web Programming",
-    "root/Computers/How Computers Work/How Computers Work.md",
     "root/Computers/How Computers Work/Microcontroladores/Microcontroladores.md",
-    "root/Computers/Programming Languages/JavaScript",
-    "root/Computers/Programming Languages/JavaScript/Angular",
-    "root/Computers/Programming Languages/C Sharp/Pasted image 20240905204304.png",
-    "root/Computers/Programming Concepts/Data Structs/stack_queue.zip",
-    "root/Computers/Programming Concepts/Data Structs/Queue.zip",
+    "root/Computers/Programming Concepts/Linguagens Formais e Autômatos Finitos/Linguagens Formais e Autômatos Finitos.md",
+    "Task.md",
+    "root/Physics/Solid Mechanics",
+    "root/Music/Notas.md",
+    "root/Math/Probabilidade e Estatística/Regressão Linear.md",
+    "root/Computers/How Computers Work/Microcontroladores/Comunicação Serial.md",
+    "root/Computers/Programming Concepts/Linguagens Formais e Autômatos Finitos/Maquina_Estados_AL.canvas",
+    "root/Computers/Programming Concepts/Data Structs/Data Structs.md",
+    "root/Computers/How Computers Work/Computer Org and Arch/Linguagens.md",
+    "root/Math/Cálculo Númerico/trab.pdf",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/Exercício-Grafo.md",
     "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/1-BFS.canvas",
-    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204826.png",
-    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204304.png",
-    "root/Computers/Programming Concepts/Data Structs/1_SCSyMwmK5pf-SiooDv-v5w.webp",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Graph.md",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/BFS.md",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/Explorando Grafos.md",
+    "root/Computers/How Computers Work/How Computers Work.md",
+    "root/Computers/How Computers Work/Microcontroladores/tristinho/Microcontroladores-Tristan.md",
+    "root/Computers/Computers.md",
+    "root/English/Present Continuos.md",
+    "root/Quimica/Modelo atômico/Dualidade onda-partícula.md",
+    "root/Physics",
+    "root/Math/Cálculo Númerico/Erro.md",
+    "root/Math/Cálculo Númerico/Cálculo Numérico.md",
+    "root/Math/Cálculo Númerico/Códigos Octave.md",
+    "root/Computers/How Computers Work/Linguagem Descrição de Hardware/Linguagem Descrição de Hardware.md",
     "root/Math/Equações diferencias/Equações Diferencias.canvas",
-    "Pasted image 20240812202929.png",
-    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520/WhatsApp Image 2024-07-30 at 19.47.47(1) 1.jpeg",
-    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520/WhatsApp Image 2024-07-30 at 19.47.47(1).jpeg",
-    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520/WhatsApp Image 2024-07-30 at 19.47.47.jpeg",
-    "root/Computers/How Computers Work/Microcontroladores/PIC 18F4520",
-    "root/Computers/Programming Concepts/Data Structs/Graph/Explorando Grafos/Pasted image 20240812212043.png",
+    "root/Math/Geometria Analítica e Álgebra Linear/Pasted image 20250406172424.png",
+    "root/Math/Geometria Analítica e Álgebra Linear/Pasted image 20250406171811.png",
+    "Sem título.base",
+    "root/Computers/How Computers Work/Compilers",
+    "root/Math/Equações diferencias/Modelando matematicamente situações reais.pdf",
+    "root/Computers/How Computers Work/Microcontroladores/Sem título.jpg",
+    "root/Computers/How Computers Work/Linguagem Descrição de Hardware/Pasted image 20250326192553.png",
+    "root/Math/Geometria Analítica e Álgebra Linear/Pasted image 20250406173942.png",
+    "root/Math/Geometria Analítica e Álgebra Linear/Pasted image 20250406173310.png",
+    "root/Math/Geometria Analítica e Álgebra Linear",
+    "root/Computers/Inteligência Artificial",
+    "root/Math/Cálculo Númerico",
+    "root/Computers/How Computers Work/Linguagem Descrição de Hardware",
+    "root/Computers/How Computers Work/Microcontroladores/tristinho/WhatsApp Image 2024-09-17 at 7.19.53 PM.jpeg",
+    "root/Computers/Programming Languages/JavaScript/Angular/Data Binding/Pasted image 20240915203857.png",
+    "root/Computers/Programming Languages/C Sharp/Pasted image 20240905204304.png",
+    "root/Computers/Programming Concepts/Data Structs/Graph/Conceitos básicos/Pasted image 20240805204826.png",
     "test.canvas"
   ]
 }

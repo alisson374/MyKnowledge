@@ -8,3 +8,4 @@ Desenvolver a compreensão intuitiva da estatística e do raciocínio estatísti
 [[Distribuição de Frequência]]
 [[Distribuição Normal]]
 [[Distribuição Binominal]]
+[[Regressão Linear]]

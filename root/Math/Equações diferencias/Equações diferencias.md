@@ -33,6 +33,10 @@ ex
 Para ser linear o *grau* da derivada de maior ordem deve ser *menor 2*.
 OBS: $y*\frac{dy}{dx}$ não é linear, pois o numerador não pode estar multiplicando pela incógnita igual. 
 
+## Sumário
 [[Ordinárias]]
 [[Parciais]]
 [[Nomenclatura Padrão]]
+[[Variáveis separadas]]
+[[EDO 2º ordem]]
+[[Modelando matematicamente situações reais]]

@@ -10,12 +10,10 @@ kanban-plugin: basic
 
 ## in progress
 
-- [ ] adicionar web programming
 
 
 ## done
 
-- [ ] organizar obsidian
 
 
 ***

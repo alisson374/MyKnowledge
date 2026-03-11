@@ -5,3 +5,5 @@
 [[Cálculo 1]]
 [[Calculo 2]]
 [[Equações diferencias]]
+[[Cálculo Numérico]]
+[[Geometria Analítica e Álgebra Linear]]

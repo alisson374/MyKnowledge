@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\lcd\MyProject.mcppi
+Project1=..\lcd\Conversor.mcppi
+Project2=Conversor.mcppi
+[ActiveProject]
+Index=2

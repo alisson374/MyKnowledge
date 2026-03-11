@@ -21,3 +21,6 @@ Construídos com base nos [[Flip Flop|flip flop's]]. Principal característica:
 [[Antibounce]]
 ## Contadores digitais
 Uma implemantação muito utilizada dos flip flop's são os circuitos contadores. Como por exemplo podemos citar o [[CD4518]]
+
+## Outros
+[[Mux e Demux]]

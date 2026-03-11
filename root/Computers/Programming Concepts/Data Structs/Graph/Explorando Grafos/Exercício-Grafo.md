@@ -5,16 +5,16 @@ Iniciando  o  processo  de  busca  pelo  vértice **C**  considerando  q
 a) Qual é a ordem de visita dos vértices em uma busca em largura (BFS)?
 raiz: C
 
-C, A, B, E, F
-A, B, E, F, D
-B, E, F, D, G
-E, F, D, G, H, J
-F, D, G, H, J
-D, G, H, J
-G, H, J
-H, J, I
-J, I
-I
+*C*, A, B, E, F
+*A*, B, E, F, D
+*B*, E, F, D, G
+*E*, F, D, G, H, J
+*F*, D, G, H, J
+*D*, G, H, J
+*G*, H, J
+*H*, J, I
+*J*, I
+*I*
 
 
 b) Qual é a ordem de visita dos vértices em uma busca em profundidade (DFS)?  
