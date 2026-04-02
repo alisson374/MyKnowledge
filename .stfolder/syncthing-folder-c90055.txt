@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: tajcl-z6uwx
+created: 2026-03-12T20:33:06-03:00

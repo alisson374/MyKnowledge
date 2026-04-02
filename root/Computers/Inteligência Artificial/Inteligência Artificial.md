@@ -1,3 +1,4 @@
+#subject 
 ## Abordagem Conceituais
 
 Baseado no *Pensamento* e *Raciocínio*
@@ -13,7 +14,7 @@ Baseado no *Comportamento*
 *I.A Fraca*: máquinas que podem simular a cognição humana, ou seja, agirem como se fossem inteligentes. (Software de reconhecimento de fala).
 
 ## Habilidades ligadas a I.A
-(rococup)
+
 
 ## Sumário
 [[Resolução de Problemas]]

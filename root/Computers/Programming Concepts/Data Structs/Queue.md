@@ -1,7 +1,8 @@
 ## C Implementation
-obs: É uma fila para números inteiros
-queue.h
+OBS: É uma fila para números inteiros
+
 ```C
+//queue.h
 #pragma once
 #include <stdbool.h>
 
@@ -18,8 +19,8 @@ int queue_size(Queue *queue);
 void queue_list(Queue* queue);
 ```
 
-queue.c
 ```C
+//queue.c
 #include "queue.h"
 #include <stdbool.h>
 #include <stdio.h>

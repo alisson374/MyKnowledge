@@ -154,4 +154,3 @@ mas possuem atributos (nessa caso "src" e "alt")
 </ul>
 ```
 
-### f

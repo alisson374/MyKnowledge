@@ -13,5 +13,3 @@
 [[Network]]
 
 [[Inteligência Artificial]]
-
-[[Linguagem Descrição de Hardware]]
