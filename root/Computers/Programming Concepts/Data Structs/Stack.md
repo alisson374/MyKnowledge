@@ -1,3 +1,6 @@
+## Concepts
+LIFO: Last in First Out
+
 ## C Implementation
 obs: É uma pilha para números inteiros
 stack.h

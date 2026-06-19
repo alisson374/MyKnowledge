@@ -1,3 +1,6 @@
+## Concepts
+FIFO: First in First Out
+
 ## C Implementation
 OBS: É uma fila para números inteiros
 
